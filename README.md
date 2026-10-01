@@ -1,3 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=contactjannahlight-web&color=brightgreen)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=contactjannahlight-web&show_icons=true&theme=dark)
+
 ### Hi there 👋 I'm Jannah Light
 
 **JANNAH LIGHT : Projet d'éclairage LED innovant avec protection Zener intégrée.**
